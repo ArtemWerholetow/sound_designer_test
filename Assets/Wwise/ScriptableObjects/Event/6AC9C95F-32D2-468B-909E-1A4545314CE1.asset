@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ec0949302eb4c349827cd3161e1218a, type: 3}
+  m_Name: 6AC9C95F-32D2-468B-909E-1A4545314CE1
+  m_EditorClassIdentifier: 
+  objectName: Lamp_1
+  id: 1942065223
+  guid: 6AC9C95F-32D2-468B-909E-1A4545314CE1

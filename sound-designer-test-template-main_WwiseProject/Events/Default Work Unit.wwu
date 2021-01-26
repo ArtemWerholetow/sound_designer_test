@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Ambient_room" ID="{590F7FE5-BDD5-4A4B-B5E3-D18C5503BC1F}">
+					<ChildrenList>
+						<Action Name="" ID="{18CDF325-64FC-4548-B6AE-A79CC6F61DA3}" ShortID="653459562">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Room tone_Empty School_Toilet, small, whining high freq ac and water pipes tone" ID="{6856C8BD-21C1-4B72-AE3B-D466C87668BE}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{77F51DCF-2C34-4114-A700-D65903C804E0}" ShortID="870988119">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Room Tone Light Household 2" ID="{AD1D6659-B270-4148-A070-7630322E8ACD}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="FootStep" ID="{328B65EF-8E87-4E36-A65E-DCA7B65D4830}">
+					<ChildrenList>
+						<Action Name="" ID="{BE0EDD47-B606-4D80-9D6C-9230F0FD5158}" ShortID="93150902">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{CBD3E640-2FC2-44C5-9BB1-E04D636202BA}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Forest" ID="{6CA98947-0E5D-499D-B1C9-15B0E95C10ED}">
+					<ChildrenList>
+						<Action Name="" ID="{1E8B9CF2-CEE7-402B-B89A-8DFEE8B12E23}" ShortID="698333767">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Forest" ID="{A2A4F000-7510-44F2-A1E3-17427B115709}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="wind" ID="{0695ADFD-6C5D-48B1-8F9E-A71D5B82AF9F}">
+					<ChildrenList>
+						<Action Name="" ID="{AF74D1A7-DFEC-4C8B-A87E-710ED69E16CE}" ShortID="447964328">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Wind_loop" ID="{A30E8700-0C08-457A-B97A-AD40511DAB8B}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{3D7526E7-D2BD-4414-8A30-1C71A68E2E0F}" ShortID="805969280">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="wind-1" ID="{4DB746CF-F56E-4C04-8766-44D4922D33C4}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{370AC5BD-CF40-4883-A622-2A72D6E84ACA}" ShortID="230025955">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Bird" ID="{5E142973-4FFF-4025-B57C-04B9AD7713B5}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Bird" ID="{46A7E33C-5E61-423E-B43B-D45EA943173B}">
+					<ChildrenList>
+						<Action Name="" ID="{A11C9B0A-0160-4B1B-883B-8700AA981B40}" ShortID="643312132">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Bird_2" ID="{685034AB-5C0E-4DB3-8BC1-A2E149D7D446}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="pigeons" ID="{E25DC4A1-38FA-4EAF-8A56-7696E830EE94}">
+					<ChildrenList>
+						<Action Name="" ID="{56B37116-780B-437A-B65C-FCA78D43AC53}" ShortID="369785846">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Pigeons" ID="{0DF7A52B-D743-4F90-A487-4F6E08C7F1BA}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Siren" ID="{0E8FE72D-51E1-4C13-B8A5-532C05184CD8}">
+					<ChildrenList>
+						<Action Name="" ID="{1C2192DE-C15D-46BB-A120-FE0D07C6DDB3}" ShortID="745348690">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sirens" ID="{9ED2A8A3-26E5-46CC-BD95-EC06A6D9619C}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Jump" ID="{AE490263-B988-4446-801C-6DAA99B1FC66}">
+					<ChildrenList>
+						<Action Name="" ID="{76B661E5-43B5-4311-9AF5-B893B181734D}" ShortID="935766443">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="jump" ID="{09ADFE66-5453-4A22-A3D8-6F7EFEEC86BF}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="open_door" ID="{4CAC262B-C450-425C-BDB3-752DE65B90DB}">
+					<ChildrenList>
+						<Action Name="" ID="{7ACAC567-2646-49DD-9F4A-B18C9EDE9F02}" ShortID="830571688">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Open_door" ID="{7F6CC48B-1CEE-453A-98B5-8EAF6BCE3464}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Closed_door" ID="{61177A2D-971C-4023-8D67-15DA882E001A}">
+					<ChildrenList>
+						<Action Name="" ID="{B27DCB55-A063-4DE7-8D89-E8D8E294A149}" ShortID="608898117">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Close_door" ID="{87AC6C64-A91B-4E16-8C34-AD85AE7D50AE}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Bird_1" ID="{D9A1F882-3DC2-4CFB-AE98-16A82489F9D8}">
+					<ChildrenList>
+						<Action Name="" ID="{96EA9413-E423-4A41-BEB4-2E521FCBC25A}" ShortID="683734688">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Bird_3" ID="{CFAFDD95-B5FA-4CB9-B4F4-6E2C9DC15DB2}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Grass" ID="{CC585A56-9687-4414-BB7B-ABE88CC0DCB9}">
+					<ChildrenList>
+						<Action Name="" ID="{6B8F0AA0-91F0-4092-AB26-F0F099C6FE28}" ShortID="706442400">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Grass" ID="{B76AEA2C-9E62-4352-8EE5-D368EDF7BEBA}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Lamp_1" ID="{6AC9C95F-32D2-468B-909E-1A4545314CE1}">
+					<ChildrenList>
+						<Action Name="" ID="{23059D7C-FA5C-4FAB-81CC-B4C93BEEBAB8}" ShortID="638913413">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Lamp_1" ID="{7D310F92-4F01-4DD3-AF6A-005D39380B7B}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Lamp_2" ID="{034BC365-ECA1-4524-A790-EC692CC78586}">
+					<ChildrenList>
+						<Action Name="" ID="{9E1E61B4-7AAA-40C7-B10B-71490665BE02}" ShortID="992786044">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Lamp_2" ID="{2FF95BDB-3CAA-44AF-80D5-F60F1088032F}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Car" ID="{41E8735E-F627-401D-9B94-12AE28650F28}">
+					<ChildrenList>
+						<Action Name="" ID="{94B1B830-6FA2-4B00-A876-1CFEA749B528}" ShortID="608440962">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Car" ID="{EB9A0532-A3C8-479E-9920-62361F1DA0E1}" WorkUnitID="{06D5D3A9-2862-4C2F-ADD6-423C0ACEC9C2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

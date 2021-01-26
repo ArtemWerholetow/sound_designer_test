@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DC3CD494-BB81-4906-BC4E-7076F3A4164D}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{DC3CD494-BB81-4906-BC4E-7076F3A4164D}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="master_bank" ID="{73FC33CD-CB6C-476D-8F13-BC014579D733}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Car" ID="{41E8735E-F627-401D-9B94-12AE28650F28}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Closed_door" ID="{61177A2D-971C-4023-8D67-15DA882E001A}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Bird" ID="{46A7E33C-5E61-423E-B43B-D45EA943173B}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="open_door" ID="{4CAC262B-C450-425C-BDB3-752DE65B90DB}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Grass" ID="{CC585A56-9687-4414-BB7B-ABE88CC0DCB9}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Jump" ID="{AE490263-B988-4446-801C-6DAA99B1FC66}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Lamp_2" ID="{034BC365-ECA1-4524-A790-EC692CC78586}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Lamp_1" ID="{6AC9C95F-32D2-468B-909E-1A4545314CE1}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="wind" ID="{0695ADFD-6C5D-48B1-8F9E-A71D5B82AF9F}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Forest" ID="{6CA98947-0E5D-499D-B1C9-15B0E95C10ED}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambient_room" ID="{590F7FE5-BDD5-4A4B-B5E3-D18C5503BC1F}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Siren" ID="{0E8FE72D-51E1-4C13-B8A5-532C05184CD8}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Bird_1" ID="{D9A1F882-3DC2-4CFB-AE98-16A82489F9D8}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootStep" ID="{328B65EF-8E87-4E36-A65E-DCA7B65D4830}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="pigeons" ID="{E25DC4A1-38FA-4EAF-8A56-7696E830EE94}" WorkUnitID="{003E1F44-9198-4AD5-BB7F-EE184E17CC85}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

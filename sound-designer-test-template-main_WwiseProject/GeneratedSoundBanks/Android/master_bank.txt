@@ -1,0 +1,84 @@
+Event	ID	Name			Wwise Object Path	Notes
+	394339654	pigeons			\Default Work Unit\pigeons	
+	484286148	Closed_door			\Default Work Unit\Closed_door	
+	491961918	Forest			\Default Work Unit\Forest	
+	627484336	Bird_1			\Default Work Unit\Bird_1	
+	734002816	Siren			\Default Work Unit\Siren	
+	983016381	Car			\Default Work Unit\Car	
+	1401412027	Ambient_room			\Default Work Unit\Ambient_room	
+	1537061107	wind			\Default Work Unit\wind	
+	1544377644	Bird			\Default Work Unit\Bird	
+	1866025847	FootStep			\Default Work Unit\FootStep	
+	1942065220	Lamp_2			\Default Work Unit\Lamp_2	
+	1942065223	Lamp_1			\Default Work Unit\Lamp_1	
+	2934549620	open_door			\Default Work Unit\open_door	
+	3833651337	Jump			\Default Work Unit\Jump	
+	4248645337	Grass			\Default Work Unit\Grass	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	684570577	Footstep_material			\Default Work Unit\Footstep_material	
+
+Switch	ID	Name	Switch Group			Notes
+	1127618254	marble	Footstep_material			
+	1289942167	stairs	Footstep_material			
+	2157048949	porch	Footstep_material			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	45762325	Lamp_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Lamp_1_F9D16793.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Lamp_1		716580
+	49987618	sparrow_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\sparrow_1_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Birds\Bird_3\sparrow_1		20570
+	50881734	Wind_loop	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Wind_loop_F9D16793.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Wind_loop		6914843
+	57507514	Footstep_marbel_5	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Footstep_marbel_5_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\stairs\Footstep_marbel_5		2548
+	82272638	sparrow_5	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\sparrow_5_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Birds\Bird_3\sparrow_5		25167
+	96676178	Wind_2	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Wind_2_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\wind-1\Wind_2		2130295
+	104064130	Player_Footstep_3	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Player_Footstep_3_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\marble\Player_Footstep_3		10463
+	110775806	Wind_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Wind_1_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\wind-1\Wind_1		3182168
+	146828355	Room Tone Light Household 2	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Room Tone Light Household 2_F9D16793.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Ambient\Room Tone Light Household 2		2546799
+	175346340	door_close_4	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\door_close_4_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Close_door\door_close_4		14941
+	178256003	door_close_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\door_close_1_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Close_door\door_close_1		14358
+	233988955	pigeons_shot_3	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\pigeons_shot_3_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Pigeons\pigeons_shot_3		23850
+	253720685	Player_Footstep_2	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Player_Footstep_2_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\marble\Player_Footstep_2		4560
+	291308793	Footstep_marbel_4	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Footstep_marbel_4_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\stairs\Footstep_marbel_4		3782
+	295711522	sirens_3	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\sirens_3_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\sirens\sirens_3		72175
+	306996668	Player_Footstep_5	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Player_Footstep_5_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\marble\Player_Footstep_5		4874
+	312775827	Wind_Grass	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Wind_Grass_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Grass\Wind_Grass		1151709
+	362446213	Forest_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Forest_1_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Forest\Forest_1		114290
+	363673847	door_close_2	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\door_close_2_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Close_door\door_close_2		14879
+	396769229	Jump_4	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Jump_4_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\jump\Jump_4		6007
+	407884749	Player_Footstep_4	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Player_Footstep_4_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\marble\Player_Footstep_4		5309
+	416775168	Jump_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Jump_1_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\jump\Jump_1		5179
+	416784311	Wind_Grass_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Wind_Grass_1_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Grass\Wind_Grass_1		1118335
+	419994483	Jump_5	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Jump_5_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\jump\Jump_5		3595
+	424096837	bird_shot_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\bird_shot_1_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Birds\Bird_2\bird_shot_1		53905
+	454598001	bird_shot_2	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\bird_shot_2_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Birds\Bird_2\bird_shot_2		28521
+	462729494	Footstep_marbel_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Footstep_marbel_1_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\stairs\Footstep_marbel_1		5236
+	473135517	sparrow_2	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\sparrow_2_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Birds\Bird_3\sparrow_2		26717
+	478676626	Footstep_marbel_3	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Footstep_marbel_3_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\stairs\Footstep_marbel_3		4311
+	480086253	sparrow_4	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\sparrow_4_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Birds\Bird_3\sparrow_4		26670
+	493143716	Footstep_Porch_4	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Footstep_Porch_4_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\porch\Footstep_Porch_4		3560
+	497526011	bird_loop_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\bird_loop_1_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Birds\Bird\bird_loop_1		2515385
+	507933880	bird_shot_3	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\bird_shot_3_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Birds\Bird_2\bird_shot_3		34868
+	551549656	sirens_2	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\sirens_2_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\sirens\sirens_2		62198
+	603344884	Player_Footstep_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Player_Footstep_1_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\marble\Player_Footstep_1		5652
+	625764466	Lamp_2	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Lamp_2_F9D16793.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Lamp_2		105036
+	641352077	Forest_3	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Forest_3_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Forest\Forest_3		109332
+	669580973	Forest_4	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Forest_4_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Forest\Forest_4		118062
+	707156939	Jump_3	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Jump_3_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\jump\Jump_3		4399
+	708941253	sparrow_3	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\sparrow_3_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Birds\Bird_3\sparrow_3		25728
+	724307146	pigeons_shot_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\pigeons_shot_1_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Pigeons\pigeons_shot_1		27522
+	726667159	Car	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Car_F9D16793.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Car		90637
+	735388561	sirens_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\sirens_1_FB0654ED.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\sirens\sirens_1		79420
+	753388807	door_close_3	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\door_close_3_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Close_door\door_close_3		14328
+	776641893	Footstep_Porch_3	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Footstep_Porch_3_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\porch\Footstep_Porch_3		3663
+	784133185	Room tone_Empty School_Toilet, small, whining high freq ac and water pipes tone	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Room tone_Empty School_Toilet, small, whining high freq ac and water pipes tone_F9D16793.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Ambient\Room tone_Empty School_Toilet, small, whining high freq ac and water pipes tone		1078903
+	802679884	Forest_2	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Forest_2_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Forest\Forest_2		110111
+	830446982	Footstep_marbel_2	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Footstep_marbel_2_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\stairs\Footstep_marbel_2		3711
+	844286845	door_open_4	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\door_open_4_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Open_door\door_open_4		20684
+	876858804	Forest_5	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Forest_5_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Forest\Forest_5		124125
+	920469664	door_open_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\door_open_1_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Open_door\door_open_1		21696
+	938880387	door_open_3	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\door_open_3_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Open_door\door_open_3		21333
+	966936744	Footstep_Porch_2	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Footstep_Porch_2_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\porch\Footstep_Porch_2		3740
+	971803835	door_open	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\door_open_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Open_door\door_open		21189
+	972803276	Footstep_Porch_1	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Footstep_Porch_1_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\porch\Footstep_Porch_1		4481
+	1035016366	pigeons_shot_2	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\pigeons_shot_2_E6A7A7B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\location\Pigeons\pigeons_shot_2		37049
+	1045618091	Jump_2	D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\SFX\Jump_2_096C4486.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\jump\Jump_2		9440
+

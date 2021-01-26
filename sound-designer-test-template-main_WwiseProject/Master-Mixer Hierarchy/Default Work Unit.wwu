@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8D7567AF-152B-4042-82B7-BB39349868C5}" SchemaVersion="97">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{8D7567AF-152B-4042-82B7-BB39349868C5}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="System" ID="{E5B75D55-9657-41D7-BFE6-9B6CF3183D3C}" WorkUnitID="{5ABCC164-B4B4-46E1-AECC-6A9B483CF94A}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AuxBus Name="Rever_Room" ID="{37F831E2-A25A-455A-BA82-3E90936055E7}">
+							<ReferenceList>
+								<Reference Name="Effect0" PluginName="Wwise Matrix Reverb" CompanyID="0" PluginID="115" PluginType="3">
+									<ObjectRef Name="Big_Garage1" ID="{172402A8-22F4-40FC-BE1D-5269594CB633}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+								</Reference>
+							</ReferenceList>
+						</AuxBus>
+						<AuxBus Name="room" ID="{5584C6F0-A5BE-4111-A80D-31902497096D}">
+							<ReferenceList>
+								<Reference Name="Effect0">
+									<Custom CreatedFrom="{65E0ACE4-B404-4485-87A4-5907277D9858}">
+										<Effect Name="PA_Announcement1_(Custom)" ID="{FFEE7171-4AA6-4255-9032-EFE2C6BA2860}" ShortID="130318708" PluginName="Wwise Matrix Reverb" CompanyID="0" PluginID="115" PluginType="3">
+											<PropertyList>
+												<Property Name="ReverbTime" Type="Real32" Value="0.9"/>
+												<Property Name="WetLevel" Type="Real32" Value="-44"/>
+											</PropertyList>
+										</Effect>
+									</Custom>
+								</Reference>
+							</ReferenceList>
+						</AuxBus>
+					</ChildrenList>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

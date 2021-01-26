@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Android" BasePlatform="Android" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Android\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\GeneratedSoundBanks\Android\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Games\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\GeneratedSoundBanks\Android</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3435463798">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="76447465" Name="Rever_Room" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Rever_Room"/>
+				<AuxBus Id="2077253480" Name="room" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\room"/>
+			</IncludedAuxBusses>
+		</SoundBank>
+		<SoundBank Id="2597442952" Language="SFX" Hash="1356589855">
+			<ObjectPath>\SoundBanks\Default Work Unit\master_bank</ObjectPath>
+			<ShortName>master_bank</ShortName>
+			<Path>master_bank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1401412027" Name="Ambient_room" ObjectPath="\Events\Default Work Unit\Ambient_room" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="146828355" Language="SFX">
+							<ShortName>Room Tone Light Household 2.wav</ShortName>
+							<Path>SFX\Room Tone Light Household 2_F9D16793.wem</Path>
+						</File>
+						<File Id="784133185" Language="SFX">
+							<ShortName>Room tone_Empty School_Toilet, small, whining high freq ac and water pipes tone.wav</ShortName>
+							<Path>SFX\Room tone_Empty School_Toilet, small, whining high freq ac and water pipes tone_F9D16793.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1544377644" Name="Bird" ObjectPath="\Events\Default Work Unit\Bird" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="9.927932" DurationMax="9.985443">
+					<IncludedMemoryFiles>
+						<File Id="424096837" Language="SFX">
+							<ShortName>bird_shot_1.wav</ShortName>
+							<Path>SFX\bird_shot_1_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="454598001" Language="SFX">
+							<ShortName>bird_shot_2.wav</ShortName>
+							<Path>SFX\bird_shot_2_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="507933880" Language="SFX">
+							<ShortName>bird_shot_3.wav</ShortName>
+							<Path>SFX\bird_shot_3_E6A7A7B5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="627484336" Name="Bird_1" ObjectPath="\Events\Default Work Unit\Bird_1" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="49987618" Language="SFX">
+							<ShortName>sparrow_1.wav</ShortName>
+							<Path>SFX\sparrow_1_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="82272638" Language="SFX">
+							<ShortName>sparrow_5.wav</ShortName>
+							<Path>SFX\sparrow_5_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="473135517" Language="SFX">
+							<ShortName>sparrow_2.wav</ShortName>
+							<Path>SFX\sparrow_2_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="480086253" Language="SFX">
+							<ShortName>sparrow_4.wav</ShortName>
+							<Path>SFX\sparrow_4_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="708941253" Language="SFX">
+							<ShortName>sparrow_3.wav</ShortName>
+							<Path>SFX\sparrow_3_E6A7A7B5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="983016381" Name="Car" ObjectPath="\Events\Default Work Unit\Car" MaxAttenuation="80.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="726667159" Language="SFX">
+							<ShortName>Car.wav</ShortName>
+							<Path>SFX\Car_F9D16793.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="484286148" Name="Closed_door" ObjectPath="\Events\Default Work Unit\Closed_door" MaxAttenuation="15.000000" DurationType="OneShot" DurationMin="0.978917" DurationMax="1.009042">
+					<IncludedMemoryFiles>
+						<File Id="175346340" Language="SFX">
+							<ShortName>door_close_4.wav</ShortName>
+							<Path>SFX\door_close_4_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="178256003" Language="SFX">
+							<ShortName>door_close_1.wav</ShortName>
+							<Path>SFX\door_close_1_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="363673847" Language="SFX">
+							<ShortName>door_close_2.wav</ShortName>
+							<Path>SFX\door_close_2_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="753388807" Language="SFX">
+							<ShortName>door_close_3.wav</ShortName>
+							<Path>SFX\door_close_3_E6A7A7B5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1866025847" Name="FootStep" ObjectPath="\Events\Default Work Unit\FootStep" MaxAttenuation="15.000000" DurationType="OneShot" DurationMin="0.309656" DurationMax="1.000752">
+					<IncludedMemoryFiles>
+						<File Id="57507514" Language="SFX">
+							<ShortName>Footstep_marbel_5.wav</ShortName>
+							<Path>SFX\Footstep_marbel_5_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="104064130" Language="SFX">
+							<ShortName>Player_Footstep_3.wav</ShortName>
+							<Path>SFX\Player_Footstep_3_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="253720685" Language="SFX">
+							<ShortName>Player_Footstep_2.wav</ShortName>
+							<Path>SFX\Player_Footstep_2_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="291308793" Language="SFX">
+							<ShortName>Footstep_marbel_4.wav</ShortName>
+							<Path>SFX\Footstep_marbel_4_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="306996668" Language="SFX">
+							<ShortName>Player_Footstep_5.wav</ShortName>
+							<Path>SFX\Player_Footstep_5_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="407884749" Language="SFX">
+							<ShortName>Player_Footstep_4.wav</ShortName>
+							<Path>SFX\Player_Footstep_4_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="462729494" Language="SFX">
+							<ShortName>Footstep_marbel_1.wav</ShortName>
+							<Path>SFX\Footstep_marbel_1_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="478676626" Language="SFX">
+							<ShortName>Footstep_marbel_3.wav</ShortName>
+							<Path>SFX\Footstep_marbel_3_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="493143716" Language="SFX">
+							<ShortName>Footstep_Porch_4.wav</ShortName>
+							<Path>SFX\Footstep_Porch_4_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="603344884" Language="SFX">
+							<ShortName>Player_Footstep_1.wav</ShortName>
+							<Path>SFX\Player_Footstep_1_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="776641893" Language="SFX">
+							<ShortName>Footstep_Porch_3.wav</ShortName>
+							<Path>SFX\Footstep_Porch_3_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="830446982" Language="SFX">
+							<ShortName>Footstep_marbel_2.wav</ShortName>
+							<Path>SFX\Footstep_marbel_2_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="966936744" Language="SFX">
+							<ShortName>Footstep_Porch_2.wav</ShortName>
+							<Path>SFX\Footstep_Porch_2_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="972803276" Language="SFX">
+							<ShortName>Footstep_Porch_1.wav</ShortName>
+							<Path>SFX\Footstep_Porch_1_E6A7A7B5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{F1ABBB12-74E2-4263-955E-C23581E333A1}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{27EC3AAC-21BA-4E7B-A642-7A8A27972110}">
+							<Media>
+								<File Id="493143716"/>
+								<File Id="776641893"/>
+								<File Id="966936744"/>
+								<File Id="972803276"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{F1ABBB12-74E2-4263-955E-C23581E333A1}">
+							<Media>
+								<File Id="104064130"/>
+								<File Id="253720685"/>
+								<File Id="306996668"/>
+								<File Id="407884749"/>
+								<File Id="603344884"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{D0C42C83-9D5E-47AA-AF82-B0D5BED04A52}">
+							<Media>
+								<File Id="57507514"/>
+								<File Id="291308793"/>
+								<File Id="462729494"/>
+								<File Id="478676626"/>
+								<File Id="830446982"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="491961918" Name="Forest" ObjectPath="\Events\Default Work Unit\Forest" MaxAttenuation="30.000000" DurationType="OneShot" DurationMin="54.308758" DurationMax="55.578163">
+					<IncludedMemoryFiles>
+						<File Id="362446213" Language="SFX">
+							<ShortName>Forest_1.wav</ShortName>
+							<Path>SFX\Forest_1_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="641352077" Language="SFX">
+							<ShortName>Forest_3.wav</ShortName>
+							<Path>SFX\Forest_3_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="669580973" Language="SFX">
+							<ShortName>Forest_4.wav</ShortName>
+							<Path>SFX\Forest_4_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="802679884" Language="SFX">
+							<ShortName>Forest_2.wav</ShortName>
+							<Path>SFX\Forest_2_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="876858804" Language="SFX">
+							<ShortName>Forest_5.wav</ShortName>
+							<Path>SFX\Forest_5_E6A7A7B5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4248645337" Name="Grass" ObjectPath="\Events\Default Work Unit\Grass" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="312775827" Language="SFX">
+							<ShortName>Wind_Grass.wav</ShortName>
+							<Path>SFX\Wind_Grass_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="416784311" Language="SFX">
+							<ShortName>Wind_Grass_1.wav</ShortName>
+							<Path>SFX\Wind_Grass_1_E6A7A7B5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3833651337" Name="Jump" ObjectPath="\Events\Default Work Unit\Jump" MaxAttenuation="20.000000" DurationType="OneShot" DurationMin="0.476402" DurationMax="0.969459">
+					<IncludedMemoryFiles>
+						<File Id="396769229" Language="SFX">
+							<ShortName>Jump_4.wav</ShortName>
+							<Path>SFX\Jump_4_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="416775168" Language="SFX">
+							<ShortName>Jump_1.wav</ShortName>
+							<Path>SFX\Jump_1_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="419994483" Language="SFX">
+							<ShortName>Jump_5.wav</ShortName>
+							<Path>SFX\Jump_5_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="707156939" Language="SFX">
+							<ShortName>Jump_3.wav</ShortName>
+							<Path>SFX\Jump_3_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="1045618091" Language="SFX">
+							<ShortName>Jump_2.wav</ShortName>
+							<Path>SFX\Jump_2_096C4486.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1942065223" Name="Lamp_1" ObjectPath="\Events\Default Work Unit\Lamp_1" MaxAttenuation="10.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="45762325" Language="SFX">
+							<ShortName>Lamp_1.wav</ShortName>
+							<Path>SFX\Lamp_1_F9D16793.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1942065220" Name="Lamp_2" ObjectPath="\Events\Default Work Unit\Lamp_2" MaxAttenuation="10.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="625764466" Language="SFX">
+							<ShortName>Lamp_2.wav</ShortName>
+							<Path>SFX\Lamp_2_F9D16793.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2934549620" Name="open_door" ObjectPath="\Events\Default Work Unit\open_door" MaxAttenuation="15.000000" DurationType="OneShot" DurationMin="1.190995" DurationMax="1.218833">
+					<IncludedMemoryFiles>
+						<File Id="844286845" Language="SFX">
+							<ShortName>door_open_4.wav</ShortName>
+							<Path>SFX\door_open_4_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="920469664" Language="SFX">
+							<ShortName>door_open_1.wav</ShortName>
+							<Path>SFX\door_open_1_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="938880387" Language="SFX">
+							<ShortName>door_open_3.wav</ShortName>
+							<Path>SFX\door_open_3_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="971803835" Language="SFX">
+							<ShortName>door_open.wav</ShortName>
+							<Path>SFX\door_open_E6A7A7B5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="394339654" Name="pigeons" ObjectPath="\Events\Default Work Unit\pigeons" MaxAttenuation="20.000000" DurationType="OneShot" DurationMin="1.927729" DurationMax="2.891583">
+					<IncludedMemoryFiles>
+						<File Id="233988955" Language="SFX">
+							<ShortName>pigeons_shot_3.wav</ShortName>
+							<Path>SFX\pigeons_shot_3_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="724307146" Language="SFX">
+							<ShortName>pigeons_shot_1.wav</ShortName>
+							<Path>SFX\pigeons_shot_1_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="1035016366" Language="SFX">
+							<ShortName>pigeons_shot_2.wav</ShortName>
+							<Path>SFX\pigeons_shot_2_E6A7A7B5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="734002816" Name="Siren" ObjectPath="\Events\Default Work Unit\Siren" MaxAttenuation="350.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="295711522" Language="SFX">
+							<ShortName>sirens_3.wav</ShortName>
+							<Path>SFX\sirens_3_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="551549656" Language="SFX">
+							<ShortName>sirens_2.wav</ShortName>
+							<Path>SFX\sirens_2_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="735388561" Language="SFX">
+							<ShortName>sirens_1.wav</ShortName>
+							<Path>SFX\sirens_1_FB0654ED.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1537061107" Name="wind" ObjectPath="\Events\Default Work Unit\wind" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="50881734" Language="SFX">
+							<ShortName>Wind_loop.wav</ShortName>
+							<Path>SFX\Wind_loop_F9D16793.wem</Path>
+						</File>
+						<File Id="96676178" Language="SFX">
+							<ShortName>Wind_2.wav</ShortName>
+							<Path>SFX\Wind_2_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="110775806" Language="SFX">
+							<ShortName>Wind_1.wav</ShortName>
+							<Path>SFX\Wind_1_E6A7A7B5.wem</Path>
+						</File>
+						<File Id="497526011" Language="SFX">
+							<ShortName>bird_loop_1.wav</ShortName>
+							<Path>SFX\bird_loop_1_E6A7A7B5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<SwitchGroups>
+				<SwitchGroup Id="684570577" Name="Footstep_material" ObjectPath="\Switches\Default Work Unit\Footstep_material">
+					<Switches>
+						<Switch Id="1127618254" Name="marble" ObjectPath="\Switches\Default Work Unit\Footstep_material\marble"/>
+						<Switch Id="1289942167" Name="stairs" ObjectPath="\Switches\Default Work Unit\Footstep_material\stairs"/>
+						<Switch Id="2157048949" Name="porch" ObjectPath="\Switches\Default Work Unit\Footstep_material\porch"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

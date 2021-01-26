@@ -1,0 +1,351 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c433a9ebf4d6e4d46993afbe9197d689, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: ffc0dd9d6e8c0f4680bae7da330f3b5a
+    GuidInternal: 
+    m_lastTime: -8585902926867725061
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: af67758d2b15424082b7bb39349868c5
+    GuidInternal: 
+    m_lastTime: -8585901344920378612
+    List:
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus
+    - name: Rever_Room
+      guid: e231f8375aa25a45ba823e90936055e7
+      id: 76447465
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Rever_Room
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\Rever_Room
+    - name: room
+      guid: f0c68455bea51141a80d31902497096d
+      id: 2077253480
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: room
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\room
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 94d43cdc81bb0649bc4e7076f3a4164d
+    GuidInternal: 
+    m_lastTime: -8585900077355809122
+    List:
+    - name: master_bank
+      guid: cd33fc736ccb6d478f13bc014579d733
+      id: 2597442952
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: master_bank
+        ObjectType: 7
+      Path: Default Work Unit\master_bank
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 441f3e009891d54abb7fee184e17cc85
+    GuidInternal: 
+    m_lastTime: -8585900077355769096
+    List:
+    - name: Ambient_room
+      guid: e57f0f59d5bd4b4ab5e3d18c5503bc1f
+      id: 1401412027
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Ambient_room
+        ObjectType: 3
+      Path: Default Work Unit\Ambient_room
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Bird
+      guid: 3ce3a746615e3e42b43bd45ea943173b
+      id: 1544377644
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Bird
+        ObjectType: 3
+      Path: Default Work Unit\Bird
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Bird_1
+      guid: 82f8a1d9c23dfb4cae9816a82489f9d8
+      id: 627484336
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Bird_1
+        ObjectType: 3
+      Path: Default Work Unit\Bird_1
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Car
+      guid: 5e73e84127f61d409b9412ae28650f28
+      id: 983016381
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Car
+        ObjectType: 3
+      Path: Default Work Unit\Car
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Closed_door
+      guid: 2d7a17611c9723408d6715da882e001a
+      id: 484286148
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Closed_door
+        ObjectType: 3
+      Path: Default Work Unit\Closed_door
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: FootStep
+      guid: ef658b32878e364ea65edca7b65d4830
+      id: 1866025847
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: FootStep
+        ObjectType: 3
+      Path: Default Work Unit\FootStep
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Forest
+      guid: 4789a96c5d0e9d49b1c915b0e95c10ed
+      id: 491961918
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Forest
+        ObjectType: 3
+      Path: Default Work Unit\Forest
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Grass
+      guid: 565a58cc87961444bb7babe88cc0dcb9
+      id: 4248645337
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Grass
+        ObjectType: 3
+      Path: Default Work Unit\Grass
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Jump
+      guid: 630249ae88b94644801c6daa99b1fc66
+      id: 3833651337
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Jump
+        ObjectType: 3
+      Path: Default Work Unit\Jump
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Lamp_1
+      guid: 5fc9c96ad2328b46909e1a4545314ce1
+      id: 1942065223
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lamp_1
+        ObjectType: 3
+      Path: Default Work Unit\Lamp_1
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Lamp_2
+      guid: 65c34b03a1ec2445a790ec692cc78586
+      id: 1942065220
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lamp_2
+        ObjectType: 3
+      Path: Default Work Unit\Lamp_2
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: open_door
+      guid: 2b26ac4c50c45c42bdb3752de65b90db
+      id: 2934549620
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: open_door
+        ObjectType: 3
+      Path: Default Work Unit\open_door
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: pigeons
+      guid: a1c45de2fa38af4e8a567696e830ee94
+      id: 394339654
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: pigeons
+        ObjectType: 3
+      Path: Default Work Unit\pigeons
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Siren
+      guid: 2de78f0ee151134cb8a5532c05184cd8
+      id: 734002816
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Siren
+        ObjectType: 3
+      Path: Default Work Unit\Siren
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: wind
+      guid: fdad95065d6cb1488f9ea71d5b82af9f
+      id: 1537061107
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: wind
+        ObjectType: 3
+      Path: Default Work Unit\wind
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 3775dcc6027c4945bb9e710677ee6fbb
+    GuidInternal: 
+    m_lastTime: -8585902926867895106
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: cfdb26d899db2f458cb631c6a272ac25
+    GuidInternal: 
+    m_lastTime: -8585902926867955099
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 35c6cd82de094548a50190d110a815fb
+    GuidInternal: 
+    m_lastTime: -8585900227930162205
+    List:
+    - name: Footstep_material
+      guid: 29fa2e6de496fb42acd7d50c995985e9
+      id: 684570577
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Footstep_material
+        ObjectType: 11
+      Path: Default Work Unit\Footstep_material
+      values:
+      - name: marble
+        guid: 12bbabf1e2746342955ec23581e333a1
+        id: 1127618254
+        PathAndIcons:
+        - ElementName: marble
+          ObjectType: 10
+      - name: porch
+        guid: ac3aec27ba217b4ea6427a8a27972110
+        id: 2157048949
+        PathAndIcons:
+        - ElementName: porch
+          ObjectType: 10
+      - name: stairs
+        guid: 832cc4d05e9daa47af82b0d5bed04a52
+        id: 1289942167
+        PathAndIcons:
+        - ElementName: stairs
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: d89d8d13ea73e347b20aa217e1552a5f
+    GuidInternal: 
+    m_lastTime: -8585902926867885105
+    List: []
+  ExpandedItems:
+  - /sound-designer-test-template-main_WwiseProject
+  - /sound-designer-test-template-main_WwiseProject/Events
+  - /sound-designer-test-template-main_WwiseProject/Events/Default Work Unit
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

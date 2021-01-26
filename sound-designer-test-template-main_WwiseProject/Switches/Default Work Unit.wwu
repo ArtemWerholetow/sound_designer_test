@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{82CDC635-09DE-4845-A501-90D110A815FB}" SchemaVersion="97">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{82CDC635-09DE-4845-A501-90D110A815FB}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Footstep_material" ID="{6D2EFA29-96E4-42FB-ACD7-D50C995985E9}">
+					<PropertyList>
+						<Property Name="UseGameParameter" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Switch Name="marble" ID="{F1ABBB12-74E2-4263-955E-C23581E333A1}"/>
+						<Switch Name="stairs" ID="{D0C42C83-9D5E-47AA-AF82-B0D5BED04A52}"/>
+						<Switch Name="porch" ID="{27EC3AAC-21BA-4E7B-A642-7A8A27972110}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>
